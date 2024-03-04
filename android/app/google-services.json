@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25338981932",
+    "project_id": "sign-up-29ecb",
+    "storage_bucket": "sign-up-29ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25338981932:android:981e0adc1f10d9763ceb89",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintegrate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPsRxji3o_SFGZyxQjGAf5sicTLocuqGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
